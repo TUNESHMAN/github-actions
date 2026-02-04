@@ -11,4 +11,4 @@ jobs:
             - name: Printing Folders
               run: ls
         #1.Install deps of our react application
-        #2.Execute automated tests
+        #2.Execute automated tests here
