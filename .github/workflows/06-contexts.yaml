@@ -1,5 +1,7 @@
 name:   06 - Contexts
 
+run-name: 06 - Contexts | DEBUG - ${{ inputs.debug }} # This will show the workflow name in the run name
+
 on:
     push:
     workflow_dispatch:
